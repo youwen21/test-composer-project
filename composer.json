@@ -1,0 +1,13 @@
+{
+    "name": "youwen/test-composer-project",
+    "description": "test how to use composer create-project",
+    "type": "project",
+    "authors": [
+        {
+            "name": "baiyouwen",
+            "email": "youwen21@yeah.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
